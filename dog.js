@@ -8,7 +8,7 @@ dog.prototype.jump = function () {
 }
 
 dog.prototype.run = function() {
-	console.log('Running...');
+	console.log('Running..');
 };
 
 
