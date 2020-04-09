@@ -1,3 +1,3 @@
-function Cat(arguments) {
-	
+function Cat(name) {
+	this.name = name;
 }
