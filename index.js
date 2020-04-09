@@ -1,11 +1,8 @@
-function sum(a, b) {
-	return a + b;
-}
+var cat = require('./cat.js');
+var mouse = require('./mouse.js');
 
-function max(a, b) {
-	return a > b ? a : b;
-}
+var mickey = new mouse('Mickey');
+var tom = new cat('Tom');
 
-function showYourName(yourName) {
-	console.log("Your name is: ", yourName);
-}
+tom.eat(mickey);
+console.log(tom);
