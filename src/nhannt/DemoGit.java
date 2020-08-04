@@ -1,7 +1,7 @@
 package nhannt;
 
 public class DemoGit {
-	//conflict
+	//eclipse
 	//nhannt
 	//add more line
 }
