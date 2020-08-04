@@ -1,7 +1,7 @@
 package nhannt;
 
 public class DemoGit {
-	//nguyen thanh nhan
+	//thanh nhan
 	//nhannt
 	//add more line
 }
