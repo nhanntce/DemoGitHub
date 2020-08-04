@@ -1,7 +1,7 @@
 package nhannt;
 
 public class DemoGit {
-	//conflict
+	//sublime
 	//nhannt
 	//add more line
 }
